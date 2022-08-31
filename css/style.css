@@ -29,3 +29,18 @@
     background-image: linear-gradient(to left, #808080, #918c8c);
 
 }
+
+/* PAGINA DE FOTOS */
+
+#galeria .col-lg-4 {
+  padding: 25px;
+}
+
+#galeria img{
+ width: 100%;
+ height: 300px;
+}
+
+#galeria img:hover{
+  border: 5px solid white ;
+}
